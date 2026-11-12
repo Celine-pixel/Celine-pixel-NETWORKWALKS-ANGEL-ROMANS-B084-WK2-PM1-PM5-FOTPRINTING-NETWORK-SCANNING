@@ -104,7 +104,7 @@ Week 2 covered footprinting, reconnaissance and network scanning. Six Kali Linux
 |---|---|
 | **1. WHOIS** | ![WHOIS](01-whois.png) |
 | **2. WhatWeb** | ![WhatWeb](02-whatweb.png) |
-| **3. Nslookup** | ![Nslookup](evidence/03-nslookup.png) |
+| **3. Nslookup** | ![Nslookup](03-nslookup.png) |
 | **4. Curl -I** | ![Curl](evidence/04-curl.png) |
 | **5. Wafw00f** | ![Wafw00f](evidence/05-wafw00f.png) |
 | **6. Dnscrecon** | ![Dnscrecon](evidence/05-wafw00f.png) |
