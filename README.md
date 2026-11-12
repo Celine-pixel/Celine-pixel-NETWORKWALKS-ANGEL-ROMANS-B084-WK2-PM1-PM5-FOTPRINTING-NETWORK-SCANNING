@@ -106,7 +106,7 @@ Week 2 covered footprinting, reconnaissance and network scanning. Six Kali Linux
 | **2. WhatWeb** | ![WhatWeb](02-whatweb.png) |
 | **3. Nslookup** | ![Nslookup](03-nslookup.png) |
 | **4. Curl -I** | ![Curl](04-curl.png) |
-| **5. Wafw00f** | ![Wafw00f](evidence/05-wafw00f.png) |
+| **5. Wafw00f** | ![Wafw00f](05-wafw00f.png) |
 | **6. Dnscrecon** | ![Dnscrecon](evidence/05-wafw00f.png) |
 | **7. Zenmap ping scan** | ![Zenmap ping scan](evidence/06-zenmap-ping-scan.png) |
 | **8. Zenmap topology** | ![Zenmap topology](evidence/07-zenmap-topology.png) |
