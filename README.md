@@ -109,7 +109,7 @@ Week 2 covered footprinting, reconnaissance and network scanning. Six Kali Linux
 | **5. Wafw00f** | ![Wafw00f](05-wafw00f.png) |
 | **6. Dnscrecon** | ![Dnscrecon](06-dnscrecon.png) |
 | **7. Zenmap ping scan** | ![Zenmap ping scan](07-zenmap-ping-scan.png) |
-| **8. Zenmap topology** | ![Zenmap topology](evidence/07-zenmap-topology.png) |
+| **8. Zenmap topology** | ![Zenmap topology](08-zenmap-topology.png) |
 
 ## 📁 Repository Structure
 
