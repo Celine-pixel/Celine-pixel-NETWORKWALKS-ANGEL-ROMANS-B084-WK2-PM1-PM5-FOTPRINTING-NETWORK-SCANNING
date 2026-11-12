@@ -7,7 +7,7 @@
 **W2-PM-FINAL | Cybersecurity | Networkwalks**
 Week 2 of the Cybersecurity & Ethical Hacking internship at Networkwalks.
 
-📄 **Full report:** [PDF](report/W2-PM-FINAL_Penetration_Testing_Report.pdf) · [Word (.docx)](report/W2-PM-FINAL_Penetration_Testing_Report.docx)
+📄 **Full report:** [PDF](report/W2-PM-FINAL_Penetration_Testing_Report.pdf) · [Word (.docx)](W2-PM-FINAL_Penetration_Testing_Report.docx)
 
 ---
 
