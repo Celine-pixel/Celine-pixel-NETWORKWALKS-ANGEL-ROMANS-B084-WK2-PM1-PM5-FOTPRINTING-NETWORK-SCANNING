@@ -127,7 +127,7 @@ Week 2 covered footprinting, reconnaissance and network scanning. Six Kali Linux
 ## 👤 Author
 
 **Romans Angel**: Cybersecurity Professional B084
-LinkedIn: <https://www.linkedin.com/in/waqaskarim/>
+LinkedIn: <https://www.linkedin.com/in/angel-romans/>
 
 **Program:** Cybersecurity program at Networkwalks | **Week:** 02 | **Repository:** GitHub
 
